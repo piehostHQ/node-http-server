@@ -48,7 +48,6 @@ telnet localhost 3000
 ```
 Send any data, and you’ll see it logged in the server console.
 The server will respond with a minimal HTTP-like response:
-makefile
 ```
 HTTP/1.1 200 OK
 Server: my-web-server
